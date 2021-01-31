@@ -1,0 +1,15 @@
+.Image {
+  height: 400px;
+  object-fit: cover;
+}
+.Name {
+  float: right;
+}
+
+.Comment {
+  font-size: x-large;
+}
+/* .Header {
+    background-color: #fff;
+    font-size: xx-large;
+  } */
